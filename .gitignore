@@ -1,2 +1,1 @@
-terraform.tstate
-terraform.tstate*
+terraform.tfstate*
